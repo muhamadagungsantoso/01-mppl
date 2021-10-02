@@ -1,4 +1,4 @@
-# Klasik
+# Kategori Klasik
 
 Berikut adalah beberapa metode kategori klasik:
 
