@@ -1,3 +1,5 @@
+[ [Kembali](README.md "Kembali ke README") ]
+
 # Kategori Klasik
 
 Berikut adalah beberapa metode kategori klasik:
